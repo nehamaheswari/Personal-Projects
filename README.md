@@ -24,9 +24,7 @@ Secure password management: Uses encryption and hashing for password storage, pr
 
 - Note encryption: Safely stores sensitive notes, encrypting them with user passwords for confidentiality.
 
-- User registration and login: Offers a seamless process with secure authentication for
-
-account access.
+- User registration and login: Offers a seamless process with secure authentication for account access.
 
 - Password generation: Provides a feature for creating strong, randomized passwords, enhancing security.
 
